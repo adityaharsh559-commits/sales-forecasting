@@ -1,0 +1,5 @@
+Model,MAE ($),RMSE ($),MAPE (%),R-Squared
+Random Forest Regressor,149.93,210.67,5.74,0.9015
+SARIMAX (with Exog Promos),322.63,381.41,11.9,0.6771
+Holt-Winters,348.06,528.65,11.87,0.3798
+Baseline (Seasonal Naive),407.99,604.78,13.79,0.1882
